@@ -1,6 +1,6 @@
 # Loth Ngassa
 
-**Software Engineer, AI & Data, Tech Entrepreneur.**
+**Software Engineer, AI & Data, Tech Entrepreneur.**<br>
 Building intelligent products and technology-driven businesses.
 
 I am a software engineer based in Lille, France. I graduated in software engineering from the École Nationale Supérieure Polytechnique de Douala (ranked 4th out of 126), and I am now specialising in Data and Artificial Intelligence at JUNIA ISEN. I founded [Nexyalabs](https://nexyalabs.com) and built NEXYA AI, a generative AI assistant published on Google Play.
