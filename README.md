@@ -18,7 +18,7 @@ I never ship code I cannot explain and repair on my own.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-dark.webp">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-light.webp">
-  <img alt="NEXYA AI: a multi-expert AI assistant on Google Play. 69 REST endpoints, 30 PostgreSQL tables, 8 CI workflows, RAG preferred in 29 of 30 blind tests." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-dark.webp" width="100%">
+  <img alt="NEXYA AI in action, filmed in the app: it draws an image from one sentence, answers from your own documents, switches expert modes, turns a request into a daily plan and talks back. 69 REST endpoints, 30 PostgreSQL tables, 8 CI workflows, RAG preferred in 29 of 30 blind tests." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-dark.webp" width="100%">
 </picture>
 </a>
 
