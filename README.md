@@ -1,35 +1,85 @@
-# Loth Ngassa
+<a href="https://lothngassa.com/en/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-light.svg">
+  <img alt="Loth Ngassa. Software Engineer, AI and Data, Tech Entrepreneur. Signed by hand." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-dark.svg" width="100%">
+</picture>
+</a>
 
-**Software Engineer, AI & Data, Tech Entrepreneur.**<br>
-Building intelligent products and technology-driven businesses.
+<br>
 
-I am a software engineer based in Lille, France. I graduated in software engineering from the École Nationale Supérieure Polytechnique de Douala (ranked 4th out of 126), and I am now specialising in Data and Artificial Intelligence at JUNIA ISEN. I founded [Nexyalabs](https://nexyalabs.com) and built NEXYA AI, a generative AI assistant published on Google Play.
+I build products end to end, from the database schema to the app in the store. I trained as a software engineer at the École Nationale Supérieure Polytechnique de Douala (4th out of 126) and I am now specialising in Data and AI at JUNIA ISEN, in Lille. I founded [Nexyalabs](https://nexyalabs.com).
 
-Portfolio: **[lothngassa.com](https://lothngassa.com/en/)**
+I never ship code I cannot explain and repair on my own.
 
-## What I build
+<br>
 
-- **[NEXYA AI](https://lothngassa.com/en/projets/nexya/)**: a multi-expert generative AI assistant for Android. Flutter app, FastAPI back end (69 REST endpoints, 30 PostgreSQL tables), RAG memory with pgvector, usable on a 2G network. On [Google Play](https://play.google.com/store/apps/details?id=com.nexyalabs.nexya) since May 2026.
-- **[MEUSEUM](https://lothngassa.com/en/projets/meuseum/)**: a web app that builds a museum visit around your time, your mood and your group, with 81 works hung at real size in a 3D palace. React, TypeScript, three.js. Live at [meuseum.pages.dev](https://meuseum.pages.dev).
-- **AI news watch**: a dependency-free Python program that reads more than 2,500 articles every evening and sends the 5 to 10 stories that matter on Telegram.
-- **BNPD**: the digital library of ENSPD dissertations. Django REST Framework and PostgreSQL. Code: [API](https://github.com/lothngassa/BN_POLYTECHNIQUE_DOUALA_API), [front end](https://github.com/lothngassa/BNPD_POLYTECHNIQUE_DOUALA).
+<a href="https://lothngassa.com/en/projets/nexya/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-light.webp">
+  <img alt="NEXYA AI: a multi-expert AI assistant on Google Play. 69 REST endpoints, 30 PostgreSQL tables, 8 CI workflows, RAG preferred in 29 of 30 blind tests." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-dark.webp" width="100%">
+</picture>
+</a>
 
-## Tools
+<p>
+<a href="https://play.google.com/store/apps/details?id=com.nexyalabs.nexya"><b>Google Play</b> ↗</a>&emsp;
+<a href="https://nexyalabs.com">nexyalabs.com ↗</a>&emsp;
+<a href="https://lothngassa.com/en/projets/nexya/">Case study ↗</a>
+</p>
 
-Python, FastAPI, Django REST Framework, Flutter, Dart, React, TypeScript, PostgreSQL, pgvector, scikit-learn, TensorFlow, Keras, Docker, GitHub Actions, Linux.
+<br>
 
-## Find me
+<a href="https://lothngassa.com/en/projets/meuseum/">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/meuseum-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/meuseum-light.webp">
+  <img alt="MEUSEUM: a web app that composes a museum visit around your time, mood and group, with 81 works in a 3D palace." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/meuseum-dark.webp" width="100%">
+</picture>
+</a>
 
-- Portfolio: [lothngassa.com](https://lothngassa.com/en/)
-- Biography: [Who is Loth Ngassa?](https://lothngassa.com/en/bio/)
-- CV in 60 seconds: [lothngassa.com/en/cv](https://lothngassa.com/en/cv/)
-- LinkedIn: [Loth Ngassa](https://www.linkedin.com/in/loth-ngassa-65b5853b9)
-- Nexyalabs: [nexyalabs.com](https://nexyalabs.com)
+<p>
+<a href="https://meuseum.pages.dev"><b>Open MEUSEUM</b> ↗</a>&emsp;
+<a href="https://lothngassa.com/en/projets/meuseum/">Case study ↗</a>
+</p>
 
-I am looking for a 12 to 16 week internship starting on 10 May 2027, in data science, machine learning or generative AI.
+<br>
 
-## En français
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/veille-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/veille-light.webp">
+  <img alt="AI news watch: every evening at 8 pm, a Python program reads more than 2,500 articles from 140 sources and sends the 5 to 10 stories that matter on Telegram." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/veille-dark.webp" width="100%">
+</picture>
 
-Loth Ngassa (nom complet : Loth Ivan Ngassa Yimga) est un ingénieur logiciel et entrepreneur technologique basé à Lille. Diplômé en génie logiciel de l'École Nationale Supérieure Polytechnique de Douala, il se spécialise en Data et Intelligence Artificielle à JUNIA ISEN. Il a fondé Nexyalabs et créé NEXYA AI.
+<br>
 
-Portfolio : [lothngassa.com](https://lothngassa.com/). Biographie : [Qui est Loth Ngassa ?](https://lothngassa.com/bio/)
+**Also built.** BNPD, the digital library of ENSPD dissertations: a [REST API](https://github.com/lothngassa/BN_POLYTECHNIQUE_DOUALA_API) in Django REST Framework and PostgreSQL, and its [web interface](https://github.com/lothngassa/BNPD_POLYTECHNIQUE_DOUALA) in HTML and Tailwind CSS. IncuTrack, a platform ENSPD students use to submit, track and assess their projects.
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/stack-light.svg">
+  <img alt="Toolkit. AI and data: Python, scikit-learn, TensorFlow, Keras, pandas, NumPy, RAG, pgvector. Back end: FastAPI, Django REST Framework, PostgreSQL, Supabase, SQL, NoSQL. Apps: Flutter, Dart, React, TypeScript, three.js, Tailwind CSS. Shipping: Docker, Linux, GitHub Actions, Prometheus, Grafana, Git." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/stack-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-light.svg">
+  <img alt="Life, a distinctive melody. Handwritten by Loth Ngassa in his notebook." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-dark.svg" width="100%">
+</picture>
+
+<br>
+
+<p align="center">
+<a href="https://lothngassa.com/en/"><b>lothngassa.com</b></a>&emsp;&emsp;
+<a href="https://www.linkedin.com/in/loth-ngassa-65b5853b9">LinkedIn</a>&emsp;&emsp;
+<a href="https://nexyalabs.com">Nexyalabs</a>&emsp;&emsp;
+<a href="https://lothngassa.com/en/cv/">CV in 60 seconds</a>
+</p>
+
+<br>
+
+<sub>En français : Loth Ngassa (nom complet Loth Ivan Ngassa Yimga) est ingénieur logiciel et entrepreneur technologique à Lille. Diplômé en génie logiciel de l'École Nationale Supérieure Polytechnique de Douala, il se spécialise en Data et Intelligence Artificielle à JUNIA ISEN. Il a fondé Nexyalabs et créé NEXYA AI. Portfolio : <a href="https://lothngassa.com/">lothngassa.com</a>, biographie : <a href="https://lothngassa.com/bio/">Qui est Loth Ngassa ?</a></sub>
