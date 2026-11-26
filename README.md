@@ -53,7 +53,7 @@ I never ship code I cannot explain and repair on my own.
 
 <br>
 
-**Also built.** BNPD, the digital library of ENSPD dissertations: a [REST API](https://github.com/lothngassa/BN_POLYTECHNIQUE_DOUALA_API) in Django REST Framework and PostgreSQL, and its [web interface](https://github.com/lothngassa/BNPD_POLYTECHNIQUE_DOUALA) in HTML and Tailwind CSS. IncuTrack, a platform ENSPD students use to submit, track and assess their projects.
+**Also built.** [BNPD](https://bnpd-polytechnique-douala-v5q3.vercel.app), the digital library of ENSPD dissertations, where each cover sits on the coloured card of its department: a [REST API](https://github.com/lothngassa/BN_POLYTECHNIQUE_DOUALA_API) in Django REST Framework and PostgreSQL, and a [web interface](https://github.com/lothngassa/BNPD_POLYTECHNIQUE_DOUALA) in plain HTML, CSS and JavaScript. IncuTrack, a platform ENSPD students use to submit, track and assess their projects.
 
 <br>
 
