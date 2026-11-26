@@ -1,8 +1,8 @@
 <a href="https://lothngassa.com/en/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Loth Ngassa. Software Engineer, AI and Data, Tech Entrepreneur. Signed by hand." src="assets/hero-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-light.svg">
+  <img alt="Loth Ngassa. Software Engineer, AI and Data, Tech Entrepreneur. Signed by hand." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-dark.svg" width="100%">
 </picture>
 </a>
 
@@ -16,9 +16,9 @@ I never ship code I cannot explain and repair on my own.
 
 <a href="https://lothngassa.com/en/projets/nexya/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nexya-dark.webp">
-  <source media="(prefers-color-scheme: light)" srcset="assets/nexya-light.webp">
-  <img alt="NEXYA AI: a multi-expert AI assistant on Google Play. 69 REST endpoints, 30 PostgreSQL tables, 8 CI workflows, RAG preferred in 29 of 30 blind tests." src="assets/nexya-dark.webp" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-light.webp">
+  <img alt="NEXYA AI: a multi-expert AI assistant on Google Play. 69 REST endpoints, 30 PostgreSQL tables, 8 CI workflows, RAG preferred in 29 of 30 blind tests." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/nexya-dark.webp" width="100%">
 </picture>
 </a>
 
@@ -32,9 +32,9 @@ I never ship code I cannot explain and repair on my own.
 
 <a href="https://lothngassa.com/en/projets/meuseum/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/meuseum-dark.webp">
-  <source media="(prefers-color-scheme: light)" srcset="assets/meuseum-light.webp">
-  <img alt="MEUSEUM: a web app that composes a museum visit around your time, mood and group, with 81 works in a 3D palace." src="assets/meuseum-dark.webp" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/meuseum-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/meuseum-light.webp">
+  <img alt="MEUSEUM: a web app that composes a museum visit around your time, mood and group, with 81 works in a 3D palace." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/meuseum-dark.webp" width="100%">
 </picture>
 </a>
 
@@ -46,9 +46,9 @@ I never ship code I cannot explain and repair on my own.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/veille-dark.webp">
-  <source media="(prefers-color-scheme: light)" srcset="assets/veille-light.webp">
-  <img alt="AI news watch: every evening at 8 pm, a Python program reads more than 2,500 articles from 140 sources and sends the 5 to 10 stories that matter on Telegram." src="assets/veille-dark.webp" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/veille-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/veille-light.webp">
+  <img alt="AI news watch: every evening at 8 pm, a Python program reads more than 2,500 articles from 140 sources and sends the 5 to 10 stories that matter on Telegram." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/veille-dark.webp" width="100%">
 </picture>
 
 <br>
@@ -58,17 +58,17 @@ I never ship code I cannot explain and repair on my own.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
-  <img alt="Toolkit. AI and data: Python, scikit-learn, TensorFlow, Keras, pandas, NumPy, RAG, pgvector. Back end: FastAPI, Django REST Framework, PostgreSQL, Supabase, SQL, NoSQL. Apps: Flutter, Dart, React, TypeScript, three.js, Tailwind CSS. Shipping: Docker, Linux, GitHub Actions, Prometheus, Grafana, Git." src="assets/stack-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/stack-light.svg">
+  <img alt="Toolkit. AI and data: Python, scikit-learn, TensorFlow, Keras, pandas, NumPy, RAG, pgvector. Back end: FastAPI, Django REST Framework, PostgreSQL, Supabase, SQL, NoSQL. Apps: Flutter, Dart, React, TypeScript, three.js, Tailwind CSS. Shipping: Docker, Linux, GitHub Actions, Prometheus, Grafana, Git." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/stack-dark.svg" width="100%">
 </picture>
 
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/footer-light.svg">
-  <img alt="Life, a distinctive melody. Handwritten by Loth Ngassa in his notebook." src="assets/footer-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-light.svg">
+  <img alt="Life, a distinctive melody. Handwritten by Loth Ngassa in his notebook." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-dark.svg" width="100%">
 </picture>
 
 <br>
