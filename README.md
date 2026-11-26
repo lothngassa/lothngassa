@@ -1,8 +1,8 @@
 <a href="https://lothngassa.com/en/">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-light.svg">
-  <img alt="Loth Ngassa. Software Engineer, AI and Data, Tech Entrepreneur. Signed by hand." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-light.webp">
+  <img alt="Loth Ngassa. Software Engineer, AI and Data, Tech Entrepreneur. Looking for a 12 to 16 week internship from 10 May 2027, in data science, machine learning or generative AI." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/hero-dark.webp" width="100%">
 </picture>
 </a>
 
