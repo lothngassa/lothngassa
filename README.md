@@ -65,14 +65,6 @@ I never ship code I cannot explain and repair on my own.
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-light.svg">
-  <img alt="Life, a distinctive melody. Handwritten by Loth Ngassa in his notebook." src="https://raw.githubusercontent.com/lothngassa/lothngassa/main/assets/footer-dark.svg" width="100%">
-</picture>
-
-<br>
-
 <p align="center">
 <a href="https://lothngassa.com/en/"><b>lothngassa.com</b></a>&emsp;&emsp;
 <a href="https://www.linkedin.com/in/loth-ngassa-65b5853b9">LinkedIn</a>&emsp;&emsp;
